@@ -1,4 +1,5 @@
 Purpose:    Script to tabulate a County-to-County Worker Flows from the 2000 CTPP Data
+
 Inputs:     This script uses two inputs:
              1. 2KWRKCO_US.txt as an input file. Fixed File Format containing the Year 2000 CTPP for entire USA
              Input File Format -   1-2      Res_ST     FIPS State Code of Residence
@@ -10,6 +11,7 @@ Inputs:     This script uses two inputs:
                                   118-124    Count      Number of Workers 16 years old and over in the commuter flow
              2. extract_Counties.csv as an input file. The unique list of counties which cover the Study Area of interest
              Input File Format - 2 fields: CNTYIDFP00,NAME00
+             
 Author:      Abi Komma
 Created:     30/11/2012
 Version:     Python 2.7.3
