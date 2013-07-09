@@ -1,8 +1,8 @@
 ## Purpose:    
-Script to tabulate a County-to-County Worker Flows from the 2000 CTPP Data
-Author:      Abi Komma
-Created:     30/11/2012
-Version:     Python 2.7.3
+Script to tabulate a County-to-County Worker Flows from the 2000 CTPP Data  
+Author:      Abi Komma  
+Created:     30/11/2012  
+Version:     Python 2.7.3  
 
 #### Inputs:     This script uses two inputs:
 1. 2KWRKCO_US.txt as an input file. Fixed File Format containing the Year 2000 CTPP for entire USA  
